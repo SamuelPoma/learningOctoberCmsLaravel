@@ -1,0 +1,9 @@
+1543621720a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:341:"title = "home"
+url = "/"
+layout = "default"
+is_hidden = 0
+==
+<h1>This is the Homepage</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque obcaecati ullam minus provident! Nobis, consectetur, voluptatibus, eveniet, quibusdam facere fugiat accusamus corrupti velit enim ex voluptas suscipit labore cumque voluptatem?</p>
+";s:5:"mtime";i:1543620121;s:6:"markup";s:278:"<h1>This is the Homepage</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque obcaecati ullam minus provident! Nobis, consectetur, voluptatibus, eveniet, quibusdam facere fugiat accusamus corrupti velit enim ex voluptas suscipit labore cumque voluptatem?</p>";s:4:"code";N;s:5:"title";s:4:"home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
